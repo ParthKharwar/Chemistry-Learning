@@ -3,13 +3,13 @@ C++ implementation of basic first year of engineering Chemistry calculations.
 
 This program performs the basic chemistry calculations required by first year engineering students of Mumbai University.
 It calculates:
-	1. Gross Calorific Value
-	2. Net Calorific Value
-	3. Atom Economy
-	4. Acid Value
-	5. Saponification Value
-	6. Hardness of Water
-	7. Basic arithmetic values
+1. Gross Calorific Value
+2. Net Calorific Value
+3. Atom Economy
+4. Acid Value
+5. Saponification Value
+6. Hardness of Water
+7. Basic arithmetic values
 
 This program also contains a hidden snake game. This game was build with it in mind that not every student studies all the time.
 
